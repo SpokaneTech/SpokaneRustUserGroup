@@ -1,1 +1,4 @@
 site_name: Spokane Rust User Group
+theme:
+  name: material
+
