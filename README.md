@@ -1,0 +1,2 @@
+# Spokane Rust User Group
+
