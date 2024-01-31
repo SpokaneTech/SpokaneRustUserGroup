@@ -7,7 +7,7 @@ description: "Be a part of the first Spokane Rust User Group meetup!"
 
 # Spokane Rust Kick-Off
 
-_March 22nd, 2024_ | [Spokane Rust on Meetup! :fontawesome-brands-meetup:](https://www.meetup.com/spokane-rust/)
+_March 21st, 2024_ | [Spokane Rust on Meetup! :fontawesome-brands-meetup:](https://www.meetup.com/spokane-rust/)
 
 ![](../img/spokane_rust_launch.png)
 
