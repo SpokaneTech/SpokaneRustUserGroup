@@ -1,4 +1,50 @@
-site_name: Spokane Rust User Group
+site_name: Spokane Rust
+site_url: https://www.spokanerust.com/
+
+plugins:
+  - include-markdown
+
 theme:
   name: material
+  logo: img/cuddlyferris.svg
+  favicon: img/cuddlyferris.svg
+  features:
+    - navigation.indexes
+    - navigation.instant
+    - navigation.expand
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - header.autohide
+  palette:
+    - scheme: default
+      primary: custom
+      accent: black
+# theme: 
+#  name: null
+#  custom_dir: "theme/"
 
+nav:
+  - "Home": "index.md"
+  - "About Us": "about/about.md"
+  - "Code of Conduct": "code-of-conduct/code-of-conduct.md"
+  - "Learning Resources": "resources/resources.md"
+  - "New Attendee Questionnaire": "questionnaire/questionnaire.md"
+  - "Present": "present/present.md"
+  - "Events":
+    - "Spokane Rust at Python": "events/spokane-python-rust-presentation.md"
+    - "Spokane Rust Kick-Off": "events/spokane-rust-kickoff.md"
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - "stylesheets/extra.css"

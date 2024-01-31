@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Alfa Slab One";
+  src:
+    url("/static/fonts/AlfaSlabOne-Regular.ttf");
+}
+
+:root {
+  --md-primary-fg-color: #0b7261;
+}
+
+h1,
+.md-header {
+  font-family: "Alfa Slab One";
+  color: black;
+}
+
+/*
+  #0b7261
+  #2e2459
+  #a72145
+*/
