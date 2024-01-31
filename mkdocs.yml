@@ -6,6 +6,8 @@ plugins:
 
 theme:
   name: material
+  font:
+    h1: Alfa Slab One
   logo: img/cuddlyferris.svg
   favicon: img/cuddlyferris.svg
   features:

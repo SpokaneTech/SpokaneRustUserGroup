@@ -1,8 +1,4 @@
-@font-face {
-  font-family: "Alfa Slab One";
-  src:
-    url("/static/fonts/AlfaSlabOne-Regular.ttf");
-}
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
 
 :root {
   --md-primary-fg-color: #0b7261;
@@ -11,7 +7,7 @@
 h1,
 .md-header {
   font-family: "Alfa Slab One";
-  color: black;
+  letter-spacing: .2em;
 }
 
 /*
