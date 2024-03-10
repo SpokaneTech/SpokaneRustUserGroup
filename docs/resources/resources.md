@@ -27,6 +27,10 @@ Are you struggling in the in-between stages of beginner and intermediate or inte
 
 Interested in bridging the gap between your previous systems programming experience in C or C++ and the new concepts introduced by Rust? Programming Rust will help you to understand performance and safety using Rust by teaching using your existing knowledge in systems programming!
 
+## [Rust Design Patterns :material-link-box-variant-outline:](https://rust-unofficial.github.io/patterns/)
+
+To call Rust an object-oriented programming language isn't entirely accurate, and that presents an interesting challenge when attempting to implement traditional object-oriented design patterns. Rust Design Patterns presents design patterns that you're familiar with and how to adapt them to Rust, helping you strengthen your foundational Rust knowledge. With this book as your guide, it won't take long before you're comfortable enough to implement these common patterns in Rust from memory!
+
 ## [No Boilerplate :fontawesome-brands-youtube:](https://www.youtube.com/@NoBoilerplate)
 
 Are you a visual learner? Or maybe it just doesn't stick when the narrator doesn't have a British accent? No Boilerplate is here to help with his excellent videos encouraging the use of Rust, including much of the high-level purview that defines our personal relationship and satisification with Rust and programming in general.
@@ -34,6 +38,8 @@ Are you a visual learner? Or maybe it just doesn't stick when the narrator doesn
 ## [Logan Smith of _noisecode :fontawesome-brands-youtube:](https://www.youtube.com/@_noisecode)
 
 For those of us who prefer the classical American pronunciation of words such as eggplant and wrath, there is also an option with Logan Smith. His comparisons with C++ and C assist those of us already familiar with some systems programming to learn how we might do better with Rust.
+
+
 
 !!! note annotate "Found something helpful or covering topics we're not including?"
 
