@@ -13,11 +13,22 @@ Spokane Rust is the premier Spokane Rust User Group. Our desire is to encourage 
 
 ![](img/spokane_rust.png)
 
-[Find us on Meetup! :fontawesome-brands-meetup:](https://www.meetup.com/spokane-rust/) | [Join the Official Spokane Tech Discord! :fontawesome-brands-discord:](https://discord.gg/XtwY48Cr)
+[Find us on Meetup! :fontawesome-brands-meetup:](https://www.meetup.com/spokane-rust/) | [Join the Official Spokane Tech Discord! :fontawesome-brands-discord:](https://discord.gg/GYvdBBNTEP)
+
+## Upcoming Events
 
 ---
 
-## Upcoming Events
+{%
+  include-markdown "events/the-borrowchecker-and-friends.md"
+  heading-offset=2
+  start="<!-- index start -->"
+  end="<!-- index end -->"
+%}
+
+## Past Events
+
+---
 
 {%
   include-markdown "events/spokane-python-rust-presentation.md"
