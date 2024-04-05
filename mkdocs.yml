@@ -34,6 +34,7 @@ nav:
   - "New Attendee Questionnaire": "questionnaire/questionnaire.md"
   - "Present": "present/present.md"
   - "Events":
+    - "The Rust Full-Stack Experience": "events/rust-fullstack.md"
     - "Brilliance in Borrowing": "events/the-borrowchecker-and-friends.md"
     - "Spokane Rust at Python": "events/spokane-python-rust-presentation.md"
     - "Spokane Rust Kick-Off": "events/spokane-rust-kickoff.md"
