@@ -20,13 +20,22 @@ Spokane Rust is the premier Spokane Rust User Group. Our desire is to encourage 
 ---
 
 {%
-  include-markdown "events/the-borrowchecker-and-friends.md"
+  include-markdown "events/rust-fullstack.md"
   heading-offset=2
   start="<!-- index start -->"
   end="<!-- index end -->"
 %}
 
 ## Past Events
+
+---
+
+{%
+  include-markdown "events/the-borrowchecker-and-friends.md"
+  heading-offset=2
+  start="<!-- index start -->"
+  end="<!-- index end -->"
+%}
 
 ---
 
